@@ -35,5 +35,5 @@ io.on('connection', (socket) => {
 });
 
 server.listen(port, () => {
-    console.log(`server is live on ${port}`)
+    console.log(`Server is live on ${port}`)
 })
